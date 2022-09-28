@@ -1,1 +1,1 @@
-# data-analytics-course
+# Data Analytics Course
